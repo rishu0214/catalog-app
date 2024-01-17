@@ -1,0 +1,78 @@
+{
+  "products": [
+
+      {
+        "id": 1,
+        "name": "Apple IPhone 14",
+        "desc": "Get your classic mobile in your pocket",
+        "price": 2500,
+        "color": "#33505a",
+        "image": "https://i5.walmartimages.com/seo/Restored-Apple-iPhone-14-Pro-Carrier-Unlocked-1TB-Deep-Purple-MQ303LL-A-Refurbished_1385d15c-17b0-4392-8fc1-414cae1a51ed.75f6972b7faabe8490df9e82084adf01.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF"
+      },
+
+      {
+        "id": 2,
+        "name": "Apple IPhone 13",
+        "desc": "Embrace the beauty of IPhone",
+        "price": 2000,
+        "color": "#283747",
+        "image": "https://oneclick.com.py/upload/produtos/987ce66e126509dcbeb319584b8ccd9b.jpg"
+      },
+      
+      {
+        "id": 3,
+        "name": "Apple IPhone 12",
+        "desc": "Take a look of Premium and Innovative Combination",
+        "price": 1500,
+        "color": "#BA4A00",
+        "image": "https://www.clove.co.uk/cdn/shop/products/bafcd28d-598b-40f2-8ea8-9bfd48566de8_2048x.jpg?v=1622046133"
+      },
+
+      {
+        "id": 4,
+        "name": "Apple IPhone 11",
+        "desc": "Get a Stylish and Classy look with the IPhone",
+        "price": 1000,
+        "color": "#148F77",
+        "image": "https://media.ldlc.com/r1600/ld/products/00/06/06/41/LD0006064109_0006064149_0006064178.jpg"
+      },
+    
+      {
+        "id": 5,
+        "name": "Apple IPhone XR",
+        "desc": "IPhone creates a remarkable journey in your life",
+        "price": 1000,
+        "color": "#33505a",
+        "image": "https://www.refurbished.store/cache/images/iphone-xr-wit-multiapple_1_600x600_BGresize_16777215-tj.png"
+      },
+
+      {
+        "id": 6,
+        "name": "Apple IPhone XS Max",
+        "desc": "Increase the beauty of your surroundings with IPhone",
+        "price": 1500,
+        "color": "#33505a",
+        "image": "https://www.mobile-dokan.com/wp-content/uploads/2022/04/Apple-iPhone-XS-Max-500x500.jpg"
+      },
+      
+      {
+        "id": 7,
+        "name": "Apple IPhone X",
+        "desc": "Beautiful and Powerful Combination",
+        "price": 1000,
+        "color": "#33505a",
+        "image": "https://toppng.com/uploads/preview/iphone-x-download-png-image-iphone-x-11563100513ixgmosawlg.png"
+      },
+
+      {
+        "id": 8,
+        "name": "Apple IPhone SE",
+        "desc": "Get yourself a IPhone",
+        "price": 400,
+        "color": "#33505a",
+        "image": "https://static.toiimg.com/thumb/resizemode-4,msid-88052258,width-250/88052258.jpg"
+      }
+
+    ]
+
+}
